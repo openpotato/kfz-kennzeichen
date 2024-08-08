@@ -2,7 +2,7 @@
 
 Dieses Repo speichert:
 
-+ die gültigen internationalen Unterscheidungszeichen fürr Kfz-Kennzeichen
++ die gültigen internationalen Unterscheidungszeichen für Kfz-Kennzeichen
 
 + die gültigen nationalen Unterscheidungszeichen der Kfz-Kennzeichen für folgende Länder:
 

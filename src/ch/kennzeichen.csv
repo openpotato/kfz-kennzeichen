@@ -1,27 +1,27 @@
-Nationalitätszeichen,Unterscheidungszeichen,Kanton 
-CH,AG,Aargau
-CH,AI,Appenzell I. Rh.
-CH,AR,Appenzell A. Rh
-CH,BE,Bern
-CH,BL,Basel-Landschaft
-CH,BS,Basel-Stadt
-CH,FR,Freiburg
-CH,GE,Genf
-CH,GL,Glarus
-CH,GR,Graubünden
-CH,JU,Jura
-CH,LU,Luzern
-CH,NE,Neuenburg
-CH,NW,Nidwalden
-CH,OW,Obwalden
-CH,SG,St. Gallen
-CH,SH,Schaffhausen
-CH,SO,Solothurn
-CH,SZ,Schwyz
-CH,TG,Thurgau
-CH,TI,Tessin
-CH,UR,Uri
-CH,VD,Waadt
-CH,VS,Wallis
-CH,ZG,Zug
-CH,ZH,Zürich
+Nationalitätszeichen,Unterscheidungszeichen,Kanton,Kanton.Iso3166-2
+CH,AG,Aargau,CH-AG
+CH,AR,Appenzell Ausserrhoden,CH-AR
+CH,AI,Appenzell Innerrhoden,CH-AI
+CH,BL,Basel-Landschaft,CH-BL
+CH,BS,Basel-Stadt,CH-BS
+CH,BE,Bern,CH-BE
+CH,FR,Freiburg,CH-FR
+CH,GE,Genf,CH-GE
+CH,GL,Glarus,CH-GL
+CH,GR,Graubünden,CH-GR
+CH,JU,Jura,CH-JU
+CH,LU,Luzern,CH-LU
+CH,NE,Neuenburg,CH-NE
+CH,NW,Nidwalden,CH-NW
+CH,OW,Obwalden,CH-OW
+CH,SH,Schaffhausen,CH-SH
+CH,SZ,Schwyz,CH-SZ
+CH,SO,Solothurn,CH-SO
+CH,SG,Sankt Gallen,CH-SG
+CH,TI,Tessin,CH-TI
+CH,TG,Thurgau,CH-TG
+CH,UR,Uri,CH-UR
+CH,VD,Waadt,CH-VD
+CH,VS,Wallis,CH-VS
+CH,ZG,Zug,CH-ZG
+CH,ZH,Zürich,CH-ZH
