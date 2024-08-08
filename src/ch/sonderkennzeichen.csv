@@ -1,5 +1,5 @@
-Nationalitätszeichen,Unterscheidungszeichen,Bedeutung
-CH,M,Militärkontrollschild
-CH,CD,"Für Dienstwagen der diplomatischen Missionen und für Motorfahrzeuge der Mitglieder des diplomatischen Personals dieser Missionen;für Dienstwagen ständiger Missionen oder anderer Vertretungen bei zwischenstaatlichen Organisationen sowie für Motorfahrzeuge der Mitglieder des diplomatischen Personals dieser Missionen;für Dienstwagen institutioneller Begünstigter nach Artikel 2 Absatz 1 Buchstaben a, b, i, j, k, l und m des Gaststaatgesetzes vom 22. Juni 2007, die Vorrechte, Immunitäten und Erleichterungen geniessen, sowie für die Motorfahrzeuge der höchstgestellten Beamten dieser institutionellen Begünstigten, die in der Schweiz diplomatischen Status geniessen."
-CH,CC,Für Dienstwagen der von einem Berufsbeamten geleiteten konsularischen Posten und für Motorfahrzeuge von Berufskonsularbeamten bestimmt.
-CH,AT,Für Motorfahrzeuge der Mitglieder des Verwaltungs- und technischen Personals der diplomatischen Missionen bestimmt.
+Nationalitätszeichen,Unterscheidungszeichen,Typ,Bedeutung
+CH,M,Bund,Militärkontrollschild
+CH,CD,Diplo,"Für Dienstwagen der diplomatischen Missionen und für Motorfahrzeuge der Mitglieder des diplomatischen Personals dieser Missionen;für Dienstwagen ständiger Missionen oder anderer Vertretungen bei zwischenstaatlichen Organisationen sowie für Motorfahrzeuge der Mitglieder des diplomatischen Personals dieser Missionen;für Dienstwagen institutioneller Begünstigter nach Artikel 2 Absatz 1 Buchstaben a, b, i, j, k, l und m des Gaststaatgesetzes vom 22. Juni 2007, die Vorrechte, Immunitäten und Erleichterungen geniessen, sowie für die Motorfahrzeuge der höchstgestellten Beamten dieser institutionellen Begünstigten, die in der Schweiz diplomatischen Status geniessen."
+CH,CC,Diplo,Für Dienstwagen der von einem Berufsbeamten geleiteten konsularischen Posten und für Motorfahrzeuge von Berufskonsularbeamten bestimmt.
+CH,AT,Diplo,Für Motorfahrzeuge der Mitglieder des Verwaltungs- und technischen Personals der diplomatischen Missionen bestimmt.
