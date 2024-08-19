@@ -16,7 +16,7 @@ Die Daten liegen jeweils im CSV-Format vor.
 
 ### International
 
-+ [International vehicle registration code](https://en.wikipedia.org/wiki/International_vehicle_registration_code)
++ [Liste der Kfz-Nationalitätszeichen](https://de.wikipedia.org/wiki/Liste_der_Kfz-Nationalit%C3%A4tszeichen)
 
 ### Deutschland
 
