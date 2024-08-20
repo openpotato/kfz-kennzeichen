@@ -1,213 +1,214 @@
-Nationalitätszeichen,Land.Name,Land.Iso3166-1.Alpha2
-A,Österreich,AT
-AFG,Afghanistan,AF
-AG,Antigua und Barbuda,AG
-AL,Albanien,AL
-AM,Armenien,AM
-AND,Andorra,AD
-ANG,Angola,AO
-ARU,Aruba,AW
-AUS,Australien,AU
-AX,Ålandinseln,AX
-AXA,Anguilla,AI
-AZ,Aserbaidschan,AZ
-B,Belgien,BE
-BD,Bangladesch,BD
-BDS,Barbados,BB
-BF,Burkina Faso,BF
-BG,Bulgarien,BG
-BHT,Bhutan,BT
-BIH,Bosnien und Herzegowina,BA
-BJ,Benin,BJ
-BOL,Plurinationaler Staat Bolivien,BO
-BR,Brasilien,BR
-BRN,Bahrain,BH
-BRU,Brunei Darussalam,BN
-BS,Bahamas,BS
-BVI,Britische Jungferninseln,VG
-BW,Botsuana,BW
-BY,Belarus,BY
-BZ,Belize,BZ
-C,Kuba,CU
-CAM,Kamerun,CM
-CDN,Kanada,CA
-CGO,Demokratische Republik Kongo,CD
-CH,Schweiz,CH
-CHN,China,CN
-CI,Côte d’Ivoire,CI
-CL,Sri Lanka,LK
-CO,Kolumbien,CO
-COM,Komoren,KM
-CR,Costa Rica,CR
-CV,Cabo Verde,CV
-CY,Zypern,CY
-CZ,Tschechien,CZ
-D,Deutschland,DE
-DJI,Dschibuti,DJ
-DK,Dänemark,DK
-DOM,Dominikanische Republik,DO
-DZ,Algerien,DZ
-E,Spanien,ES
-EAK,Kenia,KE
-EAT,Vereinigte Republik Tansania,TZ
-EAU,Uganda,UG
-EC,Ecuador,EC
-ER,Eritrea,ER
-ES,El Salvador,SV
-EST,Estland,EE
-ET,Ägypten,EG
-ETH,Äthiopien,ET
-F,Frankreich,FR
-FIN,Finnland,FI
-FJI,Fidschi,FJ
-FL,Liechtenstein,LI
-FO,Färöer-Inseln,FO
-FSM,Föderierte Staaten von Mikronesien,FM
-G,Gabun,GA
-GBA,Guernsey,GG
-GBG,Guernsey,GG
-GBJ,Jersey,JE
-GBM,Isle of Man,IM
-GBZ,Gibraltar,GI
-GCA,Guatemala,GT
-GE,Georgien,GE
-GH,Ghana,GH
-GQ,Äquatorialguinea,GQ
-GR,Griechenland,GR
-GUB,Guinea-Bissau,GW
-GUY,Guyana,GY
-H,Ungarn,HU
-HK,Hongkong,HK
-HN,Honduras,HN
-HR,Kroatien,HR
-I,Italien,IT
-IL,Israel,IL
-IND,Indien,IN
-IR,Islamische Republik Iran,IR
-IRL,Irland,IE
-IRQ,Irak,IQ
-IS,Island,IS
-J,Japan,JP
-JA,Jamaika,JM
-JOR,Jordanien,JO
-K,Kambodscha,KH
-KAN,St. Kitts und Nevis,KN
-KG,Kirgisistan,KG
-KIR,Kiribati,KI
-KN,Grönland,GL
-KP,Demokratische Volksrepublik Korea,KP
-KSA,Saudi-Arabien,SA
-KWT,Kuwait,KW
-KZ,Kasachstan,KZ
-L,Luxemburg,LU
-LAO,Demokratische Volksrepublik Laos,LA
-LAR,Libyen,LY
-LB,Liberia,LR
-LS,Lesotho,LS
-LT,Litauen,LT
-LV,Lettland,LV
-M,Malta,MT
-MA,Marokko,MA
-MAL,Malaysia,MY
-MC,Monaco,MC
-MD,Republik Moldau,MD
-MEX,Mexiko,MX
-MH,Marshallinseln,MH
-MNE,Montenegro,ME
-MNG,Mongolei,MN
-MOC,Mosambik,MZ
-MS,Mauritius,MU
-MV,Malediven,MV
-MW,Malawi,MW
-MYA,Myanmar,MM
-N,Norwegen,NO
-NAM,Namibia,NA
-NAU,Nauru,NR
-NCL,Neukaledonien,NC
-NEP,Nepal,NP
-NGR,Nigeria,NG
-NIC,Nicaragua,NI
-NL,Niederlande,NL
-NMK,Nordmazedonien,MK
-NZ,Neuseeland,NZ
-OM,Oman,OM
-P,Portugal,PT
-PA,Panama,PA
-PAL,Palau,PW
-PE,Peru,PE
-PK,Pakistan,PK
-PL,Polen,PL
-PNG,Papua-Neuguinea,PG
-PRI,Puerto Rico,PR
-PY,Paraguay,PY
-Q,Katar,QA
-RA,Argentinien,AR
-RC,Taiwan,TW
-RCA,Zentralafrikanische Republik,CF
-RCB,Kongo,CG
-RCH,Chile,CL
-RG,Guinea,GN
-RH,Haiti,HT
-RI,Indonesien,ID
-RIM,Mauretanien,MR
-RKS,Kosovo,XK
-RL,Libanon,LB
-RM,Madagaskar,MG
-RMM,Mali,ML
-RN,Niger,NE
-RO,Rumänien,RO
-ROK,Republik Korea,KR
-ROU,Uruguay,UY
-RP,Philippinen,PH
-RSM,San Marino,SM
-RU,Burundi,BI
-RUS,Russische Föderation,RU
-RWA,Ruanda,RW
-S,Schweden,SE
-SD,Eswatini,SZ
-SGP,Singapur,SG
-SK,Slowakei,SK
-SLO,Slowenien,SI
-SME,Suriname,SR
-SN,Senegal,SN
-SO,Somalia,SO
-SOL,Salomonen,SB
-SRB,Serbien,RS
-SSD,Südsudan,SS
-STP,São Tomé und Príncipe,ST
-SUD,Sudan,SD
-SY,Seychellen,SC
-SYR,Arabische Republik Syrien,SY
-T,Thailand,TH
-TD,Tschad,TD
-TG,Togo,TG
-TJ,Tadschikistan,TJ
-TL,Timor-Leste,TL
-TM,Turkmenistan,TM
-TN,Tunesien,TN
-TON,Tonga,TO
-TR,Türkei,TR
-TT,Trinidad und Tobago,TT
-TUV,Tuvalu,TV
-UA,Ukraine,UA
-UAE,Vereinigte Arabische Emirate,AE
-UK,Vereinigtes Königreich,GB
-USA,Vereinigte Staaten,US
-UZ,Usbekistan,UZ
-V,Vatikanstadt,VA
-VAN,Vanuatu,VU
-VN,Vietnam,VN
-WAG,Gambia,GM
-WAL,Sierra Leone,SL
-WB,Staat Palästina,PS
-WD,Dominica,DM
-WG,Grenada,GD
-WL,St. Lucia,LC
-WS,Samoa,WS
-WSA,Westsahara,EH
-WV,St. Vincent und die Grenadinen,VC
-YEM,Jemen,YE
-YV,Bolivarische Republik Venezuela,VE
-Z,Sambia,ZM
-ZA,Südafrika,ZA
-ZW,Simbabwe,ZW
+Nationalitätszeichen,Land.Name,Land.Iso3166-1.Alpha2,Land.Iso3166-1.Alpha3,Status,Seit,Zuvor,Herleitung,Bemerkung
+A,Österreich,AT,AUT,Offiziell,1910,,Austria (latein.),"mit Unterbrechung von 1938 (Anschluss, Ostmark) bis 1945 (Kriegsende)"
+AFG,Afghanistan,AF,AFG,Offiziell,1971,,,
+AG,Antigua und Barbuda,AG,ATG,Offiziell,,,,
+AL,Albanien,AL,ALB,Offiziell,1934,,,
+AM,Armenien,AM,ARM,Offiziell,1992,,,
+AND,Andorra,AD,AND,Offiziell,1957,,,
+ANG,Angola,AO,AGO,Offiziell,,,,
+ARU,Aruba,AW,ABW,Nicht offiziell,,,,
+AUS,Australien,AU,AUS,Offiziell,1954,,Australia (englisch),
+AX,Åland,AX,ALA,Offiziell,2002,,,
+AXA,Anguilla,AI,AIA,Offiziell,,,,
+AZ,Aserbaidschan,AZ,AZE,Offiziell,1992,,Azərbaycan (aserbaidschanisch),
+B,Belgien,BE,BEL,Offiziell,1910,,,
+BD,Bangladesch,BD,BGD,Offiziell,1978,,,
+BDS,Barbados,BB,BRB,Offiziell,1956,,,
+BF,Burkina Faso,BF,BFA,Offiziell,1990,RHV/HV,,
+BG,Bulgarien,BG,BGR,Offiziell,1910,,,
+BHT,Bhutan,BT,BHT,Offiziell,,,,
+BIH,Bosnien und Herzegowina,BA,BIH,Offiziell,1992,,Bosna i Hercegovina (bosnisch/kroatisch/serbisch) (das „I“ daher häufig deutlich kleiner),
+BJ,Benin,BJ,BEN,Offiziell,1978,,,
+BOL,Bolivien,BO,BOL,Offiziell,1967,,,
+BR,Brasilien,BR,BRA,Offiziell,1930,,,
+BRN,Bahrain,BH,BHR,Offiziell,1954,,,
+BRU,Brunei,BN,BRU,Offiziell,1956,,,
+BS,Bahamas,BS,BHS,Offiziell,1950,,,
+BY,Belarus,BY,BLR,Offiziell,1992,,Byelarus (englisch Transkription von Беларусь),
+BZ,Belize,BZ,BLZ,Offiziell,1990,BH,,
+C,Kuba,CU,CUB,Offiziell,1930,,Cuba (spanisch),
+CAM,Kamerun,CM,CAM,Offiziell,1952,,Cameroun/Cameroon (französisch/englisch),
+CDN,Kanada,CA,CAN,Offiziell,1952,,Canadian Dominion,
+CGO,Demokratische Republik Kongo,CD,COD,Offiziell,2006,CD,Congo (französisch),Kennzeichen CGO bereits 1961–1972 verwendet
+CH,Schweiz,CH,CHE,Offiziell,1911,,Confoederatio Helvetica (lateinisch),
+CHN,Volksrepublik China,CN,CHN,Nicht offiziell,,RC,,"offiziell weiter RC, was aber mit der Republik China auf Taiwan assoziiert wird."
+CI,Elfenbeinküste,CI,CIV,Offiziell,1961,,Côte d' Ivoire (französisch),
+CL,Sri Lanka,LK,LKA,Offiziell,1961,,ehem. Ceylon,entspricht dem ISO-Code von Chile
+CO,Kolumbien,CO,COL,Offiziell,1952,,Colombia (spanisch),
+COM,Komoren,KM,COM,Offiziell,,,Comores (französisch),
+CR,Costa Rica,CR,CRI,Offiziell,1956,,,
+CV,Kap Verde,CV,CPV,Offiziell,1930,,Cabo Verde (portugiesisch),
+CY,Zypern,CY,CYP,Offiziell,1932,,Cyprus (latein/englisch),
+CZ,Tschechien,CZ,CZE,Offiziell,1993,CS,Czechia (englisch),
+D,Deutschland,DE,DEU,Offiziell,1909,,Deutschland (deutsch),
+DJI,Dschibuti,DJ,DJI,Offiziell,,,Djibouti (französisch),
+DK,Dänemark,DK,DNK,Offiziell,1914,,,
+DOM,Dominikanische Republik,DO,DOM,Offiziell,1952,,,
+DZ,Algerien,DZ,DZA,Offiziell,1963,,Al Djazaïr (arabisch),
+E,Spanien,ES,ESP,Offiziell,1910,,España (spanisch),
+EAK,Kenia,KE,KEN,Offiziell,1938,,East Africa Kenya (englisch),
+EAT,Tansania,TZ,TZA,Offiziell,1938,,East Africa Tanzania (englisch),
+EAU,Uganda,UG,UGA,Offiziell,1938,,East Africa Uganda (englisch),
+EC,Ecuador,EC,ECU,Offiziell,1962,EQ,,
+EG,Ägypten,EG,EGY,Offiziell,2024,ET,Egypt (englisch),
+ER,Eritrea,ER,ERI,Offiziell,1993,,,
+ES,El Salvador,SV,SLV,Offiziell,1978,,El Salvador,entspricht dem ISO-Code von Spanien
+EST,Estland,EE,EST,Offiziell,1993,EW,Estonia (englisch),
+ETH,Äthiopien,ET,ETH,Offiziell,1964,,Ethiopia (englisch),
+F,Frankreich,FR,FRA,Offiziell,1910,,,
+FIN,Finnland,FI,FIN,Offiziell,1993,SF,,SF stand für Suomi/Finland (finnisch/schwedisch)
+FJI,Fidschi,FJ,FJI,Offiziell,1971,,Fiji (englisch),
+FL,Liechtenstein,LI,LIE,Offiziell,1923,,Fürstentum Liechtenstein,
+FO,Färöer,FO,FRO,Offiziell,1996,FR,Føroyar (färöisch),
+FSM,Föderierte Staaten von Mikronesien,FM,FSM,Offiziell,,,Federated States of Micronesia (englisch),
+G,Gabun,GA,GAB,Offiziell,1974,,,
+GBA,Alderney,GG,GGY,Offiziell,1924,,Great Britain Alderney (englisch),
+GBG,Guernsey,GG,GGY,Offiziell,1924,,Great Britain Guernsey (englisch),
+GBJ,Jersey,JE,JEY,Offiziell,1924,,Great Britain Jersey (englisch),
+GBM,Isle of Man,IM,IMN,Offiziell,1932,,Great Britain Isle of Man (englisch),
+GBZ,Gibraltar,GI,GIB,Offiziell,1924,,"Great Britain Gibraltar (englisch), Z: GBG war nicht möglich",
+GCA,Guatemala,GT,GTM,Offiziell,1956,G,Guatemala Central America (englisch),
+GE,Georgien,GE,GEO,Offiziell,1993,,,
+GH,Ghana,GH,GHA,Offiziell,1959,WAC,,
+GQ,Äquatorialguinea,GQ,GNQ,Nicht offiziell,,,Guinée équatoriale (französisch),
+GR,Griechenland,GR,GRC,Offiziell,1913,,,
+GUB,Guinea-Bissau,GW,GNB,Offiziell,,,,
+GUI,Guinea,GN,GIN,Nicht offiziell,,,,
+GUY,Guyana,GY,GUY,Offiziell,1972,,,
+H,Ungarn,HU,HUN,Offiziell,1910,,Hungaria (latein),
+HK,Hongkong,HK,HKG,Offiziell,1932,,,
+HN,Honduras,HN,HND,Offiziell,,,,
+HR,Kroatien,HR,HRV,Offiziell,1992,CRO,Hrvatska (kroatisch),
+I,Italien,IT,ITA,Offiziell,1910,,,
+IL,Israel,IL,ISR,Offiziell,1952,,,
+IND,Indien,IN,IND,Offiziell,1947,BI,,
+IR,Iran,IR,IRN,Offiziell,1936,,,
+IRL,Irland,IE,IRL,Offiziell,,EIR,,
+IRQ,Irak,IQ,IRQ,Offiziell,1930,,Iraq (internationale Transkription von arabisch عراق),
+IS,Island,IS,ISL,Offiziell,1936,,,
+J,Japan,JP,JPN,Offiziell,1964,,,
+JA,Jamaika,JM,JAM,Offiziell,1932,,,
+JOR,Jordanien,JO,JOR,Offiziell,,HKJ,,
+K,Kambodscha,KH,KHM,Offiziell,1956,,Kampuchea (früher offizielle internationale Transkription des Landesnamens),
+KAN,St. Kitts und Nevis,KN,KNA,Nicht offiziell,,,,
+KG,Kirgisistan,KG,KGZ,Offiziell,2016,KS,oft auch KGZ Kyrgyzstan (englisch),
+KIR,Kiribati,KI,KIR,Offiziell,,,,
+KN,Grönland,GL,GRL,Offiziell,,GRO,Kalaallit Nunaat (grönländisch),entspricht dem ISO-Code von St. Kitts und Nevis
+KP,Nordkorea,KP,PRK,Offiziell,,,"Korea, Democratic People’s Republic (englisch)",
+KSA,Saudi-Arabien,SA,SAU,Offiziell,,,Kingdom of Saudi-Arabia (englisch),
+KWT,Kuwait,KW,KWT,Offiziell,1954,,,
+KZ,Kasachstan,KZ,KAZ,Offiziell,1992,,Kazakhstan (englisch),
+L,Luxemburg,LU,LUX,Offiziell,1911,,,
+LAO,Laos,LA,LAO,Offiziell,1959,,,
+LAR,Libyen,LY,LBY,Nicht offiziell,1972,,Libyan Arab Republic (englisch),
+LB,Liberia,LR,LBR,Nicht offiziell,1967,,,entspricht dem ISO-Code des Libanon
+LS,Lesotho,LS,LSO,Offiziell,1967,,,
+LT,Litauen,LT,LTU,Offiziell,1992,,Lietuva (litauisch),
+LV,Lettland,LV,LVA,Offiziell,1992,LR,Latvija (lettisch),
+M,Malta,MT,MLT,Offiziell,1966,GBY,,
+MA,Marokko,MA,MAR,Offiziell,1924,,,
+MAL,Malaysia,MY,MYS,Offiziell,1967,,,
+MC,Monaco,MC,MCO,Offiziell,1910,,,
+MD,Moldau,MD,MDA,Offiziell,1992,,,
+MEX,Mexiko,MX,MEX,Offiziell,1952,,,
+MH,Marshallinseln,MH,MHL,Offiziell,,,,
+MNE,Montenegro,ME,MNE,Offiziell,2006,SCG,,
+MNG,Mongolei,MN,MNG,Offiziell,,,,
+MOC,Mosambik,MZ,MOZ,Offiziell,1975,,Moçambique (portugiesisch),
+MS,Mauritius,MU,MUS,Offiziell,1938,,,entspricht dem ISO-Code von Montserrat
+MV,Malediven,MV,MDV,Nicht offiziell,,,,
+MW,Malawi,MW,MWI,Offiziell,1965,,,
+MYA,Myanmar,MM,MMR,Offiziell,,BUR,,
+N,Norwegen,NO,NOR,Offiziell,1922,,,
+NAM,Namibia,NA,NAM,Offiziell,1990,SWA,,NA wurde von den Niederländischen Antillen verwendet
+NAU,Nauru,NR,NRU,Offiziell,1968,,,
+NCL,Neukaledonien,NC,NCL,Offiziell,,,Nouvelle-Calédonie (französisch),
+NEP,Nepal,NP,NPL,Nicht offiziell,1970,,,
+NGR,Nigeria,NG,NGA,Offiziell,1992,WAN,,
+NIC,Nicaragua,NI,NIC,Offiziell,1952,,,
+NL,Niederlande,NL,NLD,Offiziell,1910,,,
+NMK,Nordmazedonien,MK,MKD,Offiziell,2019,MK,,
+NZ,Neuseeland,NZ,NZL,Offiziell,1958,,New Zealand (englisch),
+OM,Oman,OM,OMN,Offiziell,,,,
+P,Portugal,PT,PRT,Offiziell,1910,,,
+PA,Panama,PA,PAN,Offiziell,1952,,,
+PAL,Palau,PW,PLW,Offiziell,,,,
+PE,Peru,PE,PER,Offiziell,1937,,,
+PK,Pakistan,PK,PAK,Offiziell,1947,,,
+PL,Polen,PL,POL,Offiziell,1921,,Polska (polnisch),
+PNG,Papua-Neuguinea,PG,PNG,Nicht offiziell,1978,,,
+PRI,Puerto Rico,PR,,Offiziell,,,,
+PY,Paraguay,PY,PRY,Offiziell,1952,,,
+Q,Katar,QA,QAT,Offiziell,1972,,Qatar (Transkription),
+RA,Argentinien,AR,ARG,Offiziell,1927,,República Argentina (spanisch),
+RB,Botswana,BW,BWA,Offiziell,1967,BP,Republic of Botswana (englisch),Iin der Praxis wird BW verwendet.
+RC,Taiwan,TW,TWN,Offiziell,1932,,Republic of China (englisch),siehe Anmerkung zu Volksrepublik China
+RCA,Zentralafrikanische Republik,CF,CAF,Offiziell,1962,,République centrafricaine (französisch),
+RCB,Republik Kongo,CG,COG,Offiziell,1962,,République du Congo Brazzaville (französisch),
+RCH,Chile,CL,CHL,Offiziell,1930,,República de Chile (spanisch),der ISO-Code CL wird von Sri Lanka verwendet
+RG,Guinea,GN,GIN,Offiziell,1972,,République de Guinée (französisch),
+RH,Haiti,HT,HTI,Offiziell,1952,,République d' Haïti (französisch),
+RI,Indonesien,ID,IDN,Offiziell,1955,IN,Republik Indonesia (malaiisch),
+RIM,Mauretanien,MR,MRT,Offiziell,1964,,République islamique de Mauritanie (französisch),
+RKS,Kosovo,XK,KOS,Offiziell,2008,KS,Republika e Kosovës (albanisch),
+RL,Libanon,LB,LBN,Offiziell,1952,,République libanaise (französisch),der ISO-Code LB wird von Liberia verwendet
+RM,Madagaskar,MG,MDG,Offiziell,1962,,République de Madagascar (französisch),
+RMM,Mali,ML,MLI,Offiziell,1962,,République musulmane du Mali (französisch),
+RN,Niger,NE,NER,Offiziell,1977,,République du Niger (französisch),
+RO,Rumänien,RO,ROU,Offiziell,1981,R,România (rumänisch),der ISO-Code ROU wird von Uruguay verwendet
+ROK,Südkorea,KR,ROK,Offiziell,1971,,Republic of Korea (englisch),
+ROU,Uruguay,UY,URY,Offiziell,1979,U,República Oriental del Uruguay (spanisch),entspricht dem ISO-Code von Rumänien
+RP,Philippinen,PH,PHL,Offiziell,1975,,Republic of the Philippines (englisch),
+RSM,San Marino,SM,SMR,Offiziell,1932,,Repubblica di San Marino (italienisch),
+RT,Togo,TG,TGO,Offiziell,,,République togolaise (französisch),
+RU,Burundi,BI,BDI,Offiziell,,,Republika y' Uburundi (Kirundi),entspricht dem ISO-Code von Russland
+RUS,Russland,RU,RUS,Offiziell,1992,,Russia (englisch),der ISO-Code RU wird von Burundi verwendet
+RWA,Ruanda,RW,RWA,Offiziell,1964,,Rwanda (französisch),
+S,Schweden,SE,SWE,Offiziell,1911,,,
+SD,Eswatini,SZ,SWZ,Offiziell,1935,,Swaziland,entspricht dem ISO-Code des Sudan
+SGP,Singapur,SG,SGP,Offiziell,1952,,,
+SK,Slowakei,SK,SVK,Offiziell,1993,CS,,
+SLO,Slowenien,SI,SVN,Offiziell,1992,,,
+SME,Suriname,SR,SUR,Offiziell,1936,,,
+SN,Senegal,SN,SEN,Offiziell,1962,,,
+SO,Somalia,SO,SOM,Offiziell,1974,,,
+SOL,Salomonen,SB,SOL,Offiziell,,,Solomon Islands (englisch),
+SRB,Serbien,RS,SRB,Offiziell,2006,SCG,Srbija (serbisch),
+SSD,Südsudan,SS,SSD,Offiziell,2011,SUD,South Sudan (englisch),
+STP,São Tomé und Príncipe,ST,STP,Offiziell,,,,
+SUD,Sudan,SD,SDN,Nicht offiziell,1963,,,der ISO-Code SD wird von Eswatini verwendet
+SY,Seychellen,SC,SYC,Offiziell,1938,,,entspricht dem ISO-Code von Syrien
+SYR,Syrien,SY,SYR,Offiziell,1952,,,der ISO-Code SY wird von den Seychellen verwendet
+T,Thailand,TH,THA,Offiziell,1955,SM,,
+TD,Tschad,TD,TCD,Offiziell,1973,,Tchad (französisch),
+TJ,Tadschikistan,TJ,TJK,Offiziell,1992,,Tajikistan (englisch),
+TL,Osttimor,TL,TLS,Offiziell,,,Timor-Leste (portugiesisch),
+TM,Turkmenistan,TM,TKM,Offiziell,1992,,,
+TN,Tunesien,TN,TUN,Offiziell,1957,,,
+TON,Tonga,TO,TON,Nicht offiziell,,,,
+TR,Türkei,TR,TUR,Offiziell,1935,,Türkiye (türkisch),
+TT,Trinidad und Tobago,TT,TTO,Offiziell,1964,,,
+TUV,Tuvalu,TV,TUV,Offiziell,,,,
+UA,Ukraine,UA,UKR,Offiziell,1992,,,
+UAE,Vereinigte Arabische Emirate,AE,ARE,Offiziell,,,United Arab Emirates (englisch),
+UK,Vereinigtes Königreich,GB,GBR,Offiziell,2021,GB,United Kingdom (englisch),
+USA,Vereinigte Staaten,US,USA,Offiziell,1952,US,United States of America (englisch),
+UZ,Usbekistan,UZ,UZB,Offiziell,1992,,Uzbekistan (englisch),
+V,Vatikanstadt,VA,VAT,Offiziell,,,,
+VAN,Vanuatu,VU,VUT,Nicht offiziell,,,,
+VG,Britische Jungferninseln,VG,VGB,Offiziell,,,,
+VN,Vietnam,VN,VNM,Offiziell,1953,,,
+WAG,Gambia,GM,GMB,Offiziell,1932,,West Africa The Gambia (englisch),
+WAL,Sierra Leone,SL,SLE,Offiziell,1937,,West Africa Sierra Leone (englisch),
+WB,Palästina,PS,PSE,Nicht offiziell,,,West Bank (englisch),
+WD,Dominica,DM,DMA,Offiziell,1954,,Windward Islands Dominica (englisch),
+WG,Grenada,GD,GRD,Offiziell,1932,,Windward Islands Grenada (englisch),
+WL,St. Lucia,LC,LCA,Offiziell,1932,,Windward Islands St. Lucia (englisch),
+WS,Samoa,WS,WSM,Offiziell,1962,,ehem. Westsamoa,
+WSA,Westsahara,EH,ESH,Nicht offiziell,1932,,West Sahara (englisch),
+WV,St. Vincent und die Grenadinen,VC,VCT,Offiziell,1932,,Windward Islands St. Vincent (englisch),
+YEM,Jemen,YE,YEM,Offiziell,,,Yemen (englisch),
+YV,Venezuela,VE,VEN,Offiziell,,,YV ist das Kennzeichen der Flugzeuge aus Venezuela,
+Z,Sambia,ZM,ZMB,Offiziell,1966,,Zambia (englisch),
+ZA,Südafrika,ZA,ZAF,Offiziell,1936,SAU,Zuid-Afrika (alter niederländischer Name),
+ZW,Simbabwe,ZW,ZWE,Offiziell,1977,RSR,Zimbabwe (englisch),
